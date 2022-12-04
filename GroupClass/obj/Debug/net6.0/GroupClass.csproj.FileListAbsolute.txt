@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.AssemblyInfo.cs
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GroupClass\GroupClass\bin\Debug\net6.0\GroupClass.exe
+C:\Users\Asus\source\repos\GroupClass\GroupClass\bin\Debug\net6.0\GroupClass.deps.json
+C:\Users\Asus\source\repos\GroupClass\GroupClass\bin\Debug\net6.0\GroupClass.runtimeconfig.json
+C:\Users\Asus\source\repos\GroupClass\GroupClass\bin\Debug\net6.0\GroupClass.dll
+C:\Users\Asus\source\repos\GroupClass\GroupClass\bin\Debug\net6.0\GroupClass.pdb
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.dll
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\refint\GroupClass.dll
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.pdb
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\GroupClass.genruntimeconfig.cache
+C:\Users\Asus\source\repos\GroupClass\GroupClass\obj\Debug\net6.0\ref\GroupClass.dll
